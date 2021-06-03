@@ -24,7 +24,5 @@ The model we used is built with Keras using Convolutional Neural Networks (CNN).
 
 Software Used - 
 Python 3.6
-  -- OpenCV 
-  -- TensorFlow 
-  -- Keras 
-  -- Pygame
+  -- OpenCV, TensorFlow, Keras, Pygame
+
